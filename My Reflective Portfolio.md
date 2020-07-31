@@ -45,9 +45,9 @@ Road (people, cars, bus, trucks, vehicles, line markings, lights, signals, cross
 A system requires human interaction to work. Systems in society merge together with technology known as socio-technical systems. These systems are the basis of modern society and how we live and operate our daily lives. Most of the time we do not pay close attention to the systems around us and that is because it has become embedded in ourselves; a norm. There are certain roles and responsibilities of both humans and systems so ensure organisations, companies and individuals work together in a cohesive manner and sustainable environment. Each level of complexity within a system is added through new knowledge and a broader understanding of how our society interacts. 
 
 *The following questions were not answered as there was not much going on except for an introduction. There were not many activities to engage with (mostly listening) this week. In the next weeks they will be answered as the semester and classes progress further.*
-# What are (my/the) perceived strengths and weaknesses that I have observed?
-# What were the challenges I have encountered/observed and how well (did I/my team) handle them?
-# What would I do better next time and with what anticipated results?
-# What theory proved to be useful and why? What have I learnt from this?
+#### What are (my/the) perceived strengths and weaknesses that I have observed?
+#### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
+#### What would I do better next time and with what anticipated results?
+#### What theory proved to be useful and why? What have I learnt from this?
 
 
