@@ -25,7 +25,7 @@ Constantly changing
 
 A complex system usually comprises technical and social components known as Socio-Technical Systems. Social systems include interaction with individuals, interdependent interactions with meaning and unity whilst Technical systems include software and hardware which are not self-aware (processes and operators not considered a part of the system). Socio-Technical systems are usually owned and run by organisations with policies, rules and regulations. 
 
-#*Why learn about systems:*
+## *Why learn about systems:*
 It is important to learn about systems because they are an explanation of how the world works. They allow for us to understand and see a model of phenomas and how the world works. Systems can be mathematical, political, interstellar, ecological, human or environmental. Most of the time a system is physical or abstract. 
 Systems are important as it shows inputs and outputs between the elements within a system. This can deepen our understanding of how the world around us works and teach us to think innovatively and creatively. Social and technical aspects display to us that they are interdependent and interconnected with each other; which effectively recognises that a complex system requires a human element and a technical element which are continuously interacting with one another. 
 
