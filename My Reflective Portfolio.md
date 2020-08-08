@@ -1,27 +1,27 @@
 # *Reflection* - 
 
-## *Week 1:*
+# *Week 1:*
 During week 1, I have learnt about my teachers and classmates. We did a Mural activity which required you to showcase a little bit about yourself. This was a good activity as I got to learn about the people around me and who I was going to be working with for the semester.  I also found people who had similar interests and hobbies as me which allowed me to connect with some peers. 
 
 ### *What did I learn:*
 Today I learned about systems. There are many different ways to define a system as nearly everything is a system. Systems comprise a boundary, elements within the boundary and the interactions between each element. A system requires each part to work independently together to perform as a whole function. There are three different types of systems which are categorised as the following:
-Open system 
-Closed system
-Isolated system 
-Each system is influenced by its environment and surroundings to transfer information, energy or matter across.
+ - Open system 
+ - Closed system
+ - Isolated system 
+ - Each system is influenced by its environment and surroundings to transfer information, energy or matter across.
 
 A complicated system is different to a complex system as they both have similar yet slightly different characteristics. 
 ![Image of Table Comparison of Complicated and Complex Systems](https://www.researchgate.net/profile/Allan_Best/publication/287680595/figure/tbl1/AS:669044415934468@1536524027613/1-Differences-between-simple-or-complicated-and-complex-systems-adapted-from-Finegood.png)
 
 I also learnt that there are different levels of complexity within systems which are based upon the amount of lines of codes required to develop the system. 
-Micro - Static and dynamic  complexity 
-Macro - Genetic complexity 
+ - Micro - Static and dynamic  complexity 
+ - Macro - Genetic complexity 
 
 Another thing I learnt was that Complex Systems adapt! These systems adapt through evolving to match the society, situation and environment they are in. There are many ways a system can do this like:
-Distributed control
-No equilibrium
-Connectivity
-Constantly changing 
+ - Distributed control
+ - No equilibrium
+ - Connectivity
+ - Constantly changing 
 
 A complex system usually comprises technical and social components known as Socio-Technical Systems. Social systems include interaction with individuals, interdependent interactions with meaning and unity whilst Technical systems include software and hardware which are not self-aware (processes and operators not considered a part of the system). Socio-Technical systems are usually owned and run by organisations with policies, rules and regulations. 
 
@@ -51,16 +51,17 @@ A system requires human interaction to work. Systems in society merge together w
 #### What theory proved to be useful and why? What have I learnt from this?
 
 
-## *Week 2: Reflecting on my learning*
 
-### *What insights have I gained?:*
+# *Week 2: Reflecting on my learning*
+
+### *What insights have I gained?*
 Dynamic Complexity is all about the multiple dimensions of a problem and systematically testing them with conditions to collect data on their interactions. To do this, modelling has been adapted in today's society with the following six premises:
-Building blocks 
-Surprises
-Examples from many disciplines
-Interdisciplinary modelling
-Everyone can benefit from models
-No advanced mathematical backgrounds needed
+ - Building blocks 
+ - Surprises
+ - Examples from many disciplines
+ - Interdisciplinary modelling
+ - Everyone can benefit from models
+ - No advanced mathematical backgrounds needed
 
 An inclusion of all these premises can lead to a good model. The concept of Parsimony is important during the process of model thinking. It means the best model is always that which achieves the greatest realism with the least parameter complexity and the least model complexity. Realism and abstraction play key roles in modelling. 
 Another aspect of modeling is capturing observations. Most people like to visualize and play around with a computer rather than be in the field. Being in the field is a lot more laborious, intense and  time consuming but with modelling it is faster and people are able to test many different conditions, analyse and collect data quicker. 
@@ -68,24 +69,24 @@ Another aspect of modeling is capturing observations. Most people like to visual
 As well as using technology, modelling requires a mental side. Using your mind is important when determining the models one will create. Interpretation of physical ideas can differ from person to person. These are what we call biases. There are always going to be flaws in our thinking and with our systemic approach to problem solving, so being aware of biases can help to reduce issues within models. Mental assumptions are also based on one’s beliefs and values which motivate our decisions. 
 
 There are so many reasons why we model. We model to reason, explain, design, communicate, act, predict and explore the world around us. Three different models used for many model thinkers are: 
-Embodiment Approach
-Analogy Approach
-Alternative Reality 
+ - Embodiment Approach
+ - Analogy Approach
+ - Alternative Reality 
 
 These models come from the model thinking workflow: 
-Real Word > Simplified World > Model > Scenario. 
+ - Real Word > Simplified World > Model > Scenario. 
 
 To have a better understanding about many model thinking, it's important to understand the basics. The wisdom hierarchy gives a good representation to assist many model thinking. In this hierarchy there are four components which are,
-Data: Raw, uncoded events, experiences, and phenomena
-Information: Names and partitions data into categories
-Knowledge: Understandings of correlative, causal, and logical relationships > MODEL FORM 
-Wisdom: Ability to identify and apply relevant knowledge > MANY MODEL THINKING
+ - Data: Raw, uncoded events, experiences, and phenomena
+ - Information: Names and partitions data into categories
+ - Knowledge: Understandings of correlative, causal, and logical relationships > MODEL FORM 
+ - Wisdom: Ability to identify and apply relevant knowledge > MANY MODEL THINKING
 
 Wisdom comes in many forms but with many model thinking it comes from crowds. Working in a collaborative environment with many different people, all with different skill sets, the models become versatile and adaptive. Wisdom in crowds can build up logical plans and spread out outcomes. To gain a scope of perspectives on problems. Key aspects of wisdom include,
-Diversity
-Local knowledge
-Independence
-Aggregation 
+ - Diversity
+ - Local knowledge
+ - Independence
+ - Aggregation 
 A collective judgement and analysis on problems and also shows that no single person can answer all questions associated with the issue. 
 
 *The following questions were not answered as there was not much group work. There were not many activities to engage with (mostly listening) this week. In the next weeks they will be answered as the semester and classes progress further.*
