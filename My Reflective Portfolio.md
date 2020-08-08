@@ -51,3 +51,45 @@ A system requires human interaction to work. Systems in society merge together w
 #### What theory proved to be useful and why? What have I learnt from this?
 
 
+## *Week 2: Reflecting on my learning*
+
+### *What insights have I gained?:*
+Dynamic Complexity is all about the multiple dimensions of a problem and systematically testing them with conditions to collect data on their interactions. To do this, modelling has been adapted in today's society with the following six premises:
+Building blocks 
+Surprises
+Examples from many disciplines
+Interdisciplinary modelling
+Everyone can benefit from models
+No advanced mathematical backgrounds needed
+
+An inclusion of all these premises can lead to a good model. The concept of Parsimony is important during the process of model thinking. It means the best model is always that which achieves the greatest realism with the least parameter complexity and the least model complexity. Realism and abstraction play key roles in modelling. 
+Another aspect of modeling is capturing observations. Most people like to visualize and play around with a computer rather than be in the field. Being in the field is a lot more laborious, intense and  time consuming but with modelling it is faster and people are able to test many different conditions, analyse and collect data quicker. 
+
+As well as using technology, modelling requires a mental side. Using your mind is important when determining the models one will create. Interpretation of physical ideas can differ from person to person. These are what we call biases. There are always going to be flaws in our thinking and with our systemic approach to problem solving, so being aware of biases can help to reduce issues within models. Mental assumptions are also based on one’s beliefs and values which motivate our decisions. 
+
+There are so many reasons why we model. We model to reason, explain, design, communicate, act, predict and explore the world around us. Three different models used for many model thinkers are: 
+Embodiment Approach
+Analogy Approach
+Alternative Reality 
+
+These models come from the model thinking workflow: 
+Real Word > Simplified World > Model > Scenario. 
+
+To have a better understanding about many model thinking, it's important to understand the basics. The wisdom hierarchy gives a good representation to assist many model thinking. In this hierarchy there are four components which are,
+Data: Raw, uncoded events, experiences, and phenomena
+Information: Names and partitions data into categories
+Knowledge: Understandings of correlative, causal, and logical relationships > MODEL FORM 
+Wisdom: Ability to identify and apply relevant knowledge > MANY MODEL THINKING
+
+Wisdom comes in many forms but with many model thinking it comes from crowds. Working in a collaborative environment with many different people, all with different skill sets, the models become versatile and adaptive. Wisdom in crowds can build up logical plans and spread out outcomes. To gain a scope of perspectives on problems. Key aspects of wisdom include,
+Diversity
+Local knowledge
+Independence
+Aggregation 
+A collective judgement and analysis on problems and also shows that no single person can answer all questions associated with the issue. 
+
+*The following questions were not answered as there was not much group work. There were not many activities to engage with (mostly listening) this week. In the next weeks they will be answered as the semester and classes progress further.*
+#### What are (my/the) perceived strengths and weaknesses that I have observed?
+#### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
+#### What would I do better next time and with what anticipated results?
+#### What theory proved to be useful and why? What have I learnt from this?
