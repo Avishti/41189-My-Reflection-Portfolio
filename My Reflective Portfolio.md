@@ -94,3 +94,71 @@ A collective judgement and analysis on problems and also shows that no single pe
 #### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
 #### What would I do better next time and with what anticipated results?
 #### What theory proved to be useful and why? What have I learnt from this?
+
+
+
+# *Week 3: Reflecting on my learning*
+
+### *What insights have I gained?*
+Models are heavily influenced by people - the human aspect. It’s important to understand how and why we impact systems and this can be investigated in three models: 
+- Rational: People behave to optimise their goals
+- Behavioural: Observing how people behave 
+- Rule based: Using psychology to predict how people behave
+
+Rational Models: 
+
+![image of rational models](https://img.favpng.com/21/18/12/rational-planning-model-decision-making-models-irrationality-png-favpng-vaFPxVQRaF1L4y46ENGhXBRvZ.jpg)
+
+Behavioural Models: 
+
+![image of behavioural modesl](https://www.researchgate.net/profile/Liana_Luzzi/publication/5407720/figure/fig1/AS:203164809732104@1425449673475/Theory-of-Planned-Behaviour-Ajzen-1991.png)
+
+Rule Based Models:
+
+![image of rule based models](https://www.researchgate.net/profile/Patricia_Rogers/publication/230557767/figure/fig1/AS:349441753141252@1460324814500/A-Simple-Logic-Model-W-K-Kellogg-Foundation-2004.png)
+
+
+Now with the understanding of how to analyse behaviour of individuals, we investigate why people make decisions with models. There are two reason:
+- Normative: Allow us to make better decisions
+- Positive: Predict behaviour of others and why they make decisions
+
+For decisions under uncertainty, models require probability. There are three types of probability:
+- Classical: Mathematical sense
+- Frequency: Number of specific outcomes
+- Subjective: Guessing and estimating 
+- Along with uncertainty, decision trees are a technique that offer assistance when there are a lot of outcomes and it can be used to see how others perceive issues and ideas. 
+
+![image of decision tree](https://miro.medium.com/max/1024/1*-8tqsBEjsEW6wMFxczD5uQ.png)
+
+
+Often when analysing decision making of people, we need to know what information is meaningful. Value of Information (VoI) is a decisions analysis technique which allows a decision maker to improve the choices they make. By doing VoI, we can learn more about biases and compare the information with pre-existing knowledge and theories. 
+
+Signaling models are used to identify conditions in which people reveal information purposely. Within these models, people display information that they want others to know of, such as particular traits or materialistic objects. This is known as conspicuous consumption. 
+
+
+There are two signalling models which are reliant on cost: 
+- discrete signaling model: Choose to send a signal or not.
+- continuous signaling model: Signal size varies.
+
+Value and power are reliant on contribution. There are three ways to capture contribution:
+- Cooperative game: Seeks coalition of people within a group
+- Last-on-the-bus (LOTB) value: value of the last person
+- Shapley value: Marginal contribution when a person is added to a coalition 
+
+The Shapely satisfies the following conditions: 
+- Efficiency: The sum of the values.
+- Fairness/Symmetry: The same added value for any coalition means same value. 
+- Additivity: Value is equal to version 1 and 2 combined.
+- Zero property: If a value equals zero for any coalition.
+
+Problem solving in groups requires four steps before you find innovation. 
+- Perspectives: Looking at problems in many dimensions.
+- Heuristics: Finding solutions
+- Team Diversity: Combine perspectives and heuristics to find the best solutions.
+- Recomincation: Combining perspectives and heuristics to increase perspectives and heuristics.
+
+*The following questions were not answered as there was not much group work. There were not many activities to engage with (mostly listening) this week. In the next weeks they will be answered as the semester and classes progress further.*
+#### What are (my/the) perceived strengths and weaknesses that I have observed?
+#### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
+#### What would I do better next time and with what anticipated results?
+#### What theory proved to be useful and why? What have I learnt from this?
