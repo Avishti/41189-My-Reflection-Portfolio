@@ -162,3 +162,66 @@ Problem solving in groups requires four steps before you find innovation.
 #### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
 #### What would I do better next time and with what anticipated results?
 #### What theory proved to be useful and why? What have I learnt from this?
+
+
+
+# *Week 4: Reflecting on my learning*
+
+### *What insights have I gained?*
+System Dynamics allow for a system to be analysed which provide feedback on the relationships between the system and its surroundings. Each of the interactions can be assessed through positive and negative feedback to increase our logical thinking. To do this, we look at each of the six dynamics:
+- Sources: Inputs
+- Sinks: Outputs
+- Stocks: Variables
+- Flows: Feedback 
+- Rates: Level of Change between Variables
+- Constants: Fixed or Changed Variables
+Complexity can arise from both positive and negative feedback and through this, it can be identifiable. Taking this into consideration, we can gain detailed, dynamic and divergent perspectives of the world around us. As said in week 1, a system comprises a boundary, elements within the boundary and the interactions between each element. A system will always be changing and adapting to its circumstances and environment. 
+Systems are defined by their interrelationships and their functionality or potential.
+Thinking in systems relies on understanding boundaries. To define a system boundary one should look at its function, purpose and potential.
+
+![Image of system thinking](https://kindling.xyz/wp-content/uploads/2016/08/Systems-thinking.png)
+
+Methodology of System Thinking:
+1.  Define the boundary
+2.  Identify macro and micro elements
+3.  Change the perspectives
+4.  Investigate further
+
+Causal Loop Diagrams represent the relationship between variables. There are different signs which represent relationships between variables. These known as link polarities which include:
+- ‘+’ increase
+- ‘S’ Same relationship
+- ‘O’ Opposite relationship
+Loop Identifiers how the loop evolves overtime. These include:
+- ‘B’ self balancing (odd amount of loops highly likely to be B)
+- ‘R’ self reinforcing 
+
+There are 3 Fundamental Modes of Interaction between loops. 
+1. Exponential Growth: In ‘R’ loops when a variable is isolated shows Exp. Growth.
+2. Goal-Seeking: A system naturally reaches its desired state. Comparisons between the actual state of the system and the goal.
+3. Oscillation: Time delays (Administrative delays, action delays, measurement delays). Delays anywhere in the system will cause oscillations.
+
+For each diagram system there is a mathematical writing. These are known as Lotka-Volterra equations. These equations have an equilibrium of extinction (-) and an interior (+) equilibrium (in relation to animal kingdoms).
+ 
+Networks allow data to be turned into useful information and have become very popular over the years. 
+Network structures are made of nodes and edges. A node is an individual entity and an edge can be directed or undirected which either point or do not point to other nodes. 
+
+![Image of networks](https://w0.pngwave.com/png/560/823/rhizome-distributed-networking-computer-network-diagram-node-network-structure-png-clip-art.png)
+
+There are four measures of structures: 
+1. Degree: the amount of edges a node consists of.
+2. Path length: length from node to node by counting the edges.
+3. Connectedness: If the graph/diagram is connected to itself. 
+4. Clustering Coefficient: The tightness and closeness of edges.
+
+Logic of Network Formation occurs in three different ways:
+1. Random: no structure between nodes and edges.
+2. Small worlds: Nodes connect to themselves close by and some further away.
+3. Preferential attachment: describes the internet. You connect to nodes which are more connected.
+
+Network Function arises if there is some structure to a network. When nodes interact they mostly think about themselves, but when these preferences interact on the microlevel, they can lead to emergent properties or functionalities on the macro level.
+
+*The following questions were not answered as there was not much group work. There were not many activities to engage with (mostly listening) this week. In the next weeks they will be answered as the semester and classes progress further.*
+#### What are (my/the) perceived strengths and weaknesses that I have observed?
+#### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
+#### What would I do better next time and with what anticipated results?
+#### What theory proved to be useful and why? What have I learnt from this?
