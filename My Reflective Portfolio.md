@@ -225,3 +225,50 @@ Network Function arises if there is some structure to a network. When nodes inte
 #### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
 #### What would I do better next time and with what anticipated results?
 #### What theory proved to be useful and why? What have I learnt from this?
+
+
+# *Week 5: Reflecting on my learning*
+
+### *What insights have I gained?*
+Probability Distributions is a function which shows all possible values that a random variable can take. Aggregation looks at the formation of clusters of specific values and if often grouped in a non-linear way. When aggregation is analysed for the interactions within a group which can show new properties within the values. 
+In probability, numbers range from 0 to 1 when you take all possibilities in consideration. Adding up each probability for an event will always equal 1. 
+
+![image of probability](https://www.montereyinstitute.org/courses/DevelopmentalMath/COURSE_TEXT2_RESOURCE/U08_L4_T1_text_final_3_files/image001.gif)
+
+A random variable is a variable that is subject to random variations so that it can take on multiple different values, each with an associated probability. A random variable consists of a collection of all possible values which results in data collection and used for analysis. Each probability has different levels of complexity, therefore not all can be reliable. A random variable changes with context therefore a good idea is to do sampling as different results may occur overtime. 
+
+![image of distributions](https://image.slidesharecdn.com/probabilitydistribution2-150117052555-conversion-gate01/95/probability-distribution-2-20-638.jpg?cb=1421494059)
+
+Probability distributions models allow for predictions to be made about random variables, data sets and their behaviours. 
+Statistics and probability go hand in hand with each other. Statistics is the study of data via mathematical measures while understanding the parameters. Inferring the data can be done in three ways:
+	1. Point estimation 
+	2. Interval estimation
+	3. Hypothesis testing 
+
+Regularity refers to normal distributions in a bell-shaped curve. This means that the scores are symmetric and the mean, median and mode are equal. These curves usually have high accuracy. 
+
+The Central Limit Theorem is a simple and effective model of aggregation in groups of people. Each agent makes an independent decision which will be analysed through statistical measures. This theorem states that if you add up all independent variables, the end result will be a bell curve or Gaussian Distribution. If the independent variables are not added together and averaged, then the curve will not be normally distributed. 
+The tail of the curve depends on the variance and random variables added together. If there is low variance the tail will be short, and high variance the tail will be long. 
+
+Long tail distributions have extremes which is known as the power law. A Power Law is present when the distribution is top-heavy with a long tail. Stated in other words, it is a system where large is rare and small is common. These long tails have independence. A power law can be defined by the function:
+y = C x − α
+Both c and α (is the scaling parameter and determines the slope of the distribution) are the constants characterising the power law distribution.The special case of power laws with exponents equal to 2 are known as Zipf distributions.Zipf's law — For power-law distributions with an exponent of 2 (α=2) the rank of the event times its size equals a constant: Event Rank x Event Size= Constant. 
+
+2 Models that produce power laws include: 
+ 1. Preferential attachment: Assists with the explanations of why power laws are linked. 
+ 2. Self organised criticality: builds interdependencies in a system until the system reaches a critical state.
+
+Linear models describe a continuous response variable in the form of linear regression. It shows the relationship between independent and dependent variables. A vertical offset is a difference between actual and predicted data. Linear regression provides the following information:
+- Sign: +/-, correlation
+- Significance: p-value 
+- Magnitude: estimate of the coefficient
+
+When there are multiple variables, a multiple-variable linear regression can be used. Although regression cannot prove patterns and causes, they can help with explanations. 
+
+With all this in mind, it is important to understand the limitations of these models and mathematical measures. 
+
+*The following questions were not answered as there was not much group work. There were not many activities to engage with (mostly listening) this week. In the next weeks they will be answered as the semester and classes progress further.*
+#### What are (my/the) perceived strengths and weaknesses that I have observed?
+#### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
+#### What would I do better next time and with what anticipated results?
+#### What theory proved to be useful and why? What have I learnt from this?
