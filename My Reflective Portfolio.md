@@ -272,3 +272,72 @@ With all this in mind, it is important to understand the limitations of these mo
 #### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
 #### What would I do better next time and with what anticipated results?
 #### What theory proved to be useful and why? What have I learnt from this?
+
+
+# *Week 6: Reflecting on my learning*
+
+### *What insights have I gained?*
+Path dependence occurs through the choices and methodologies of previous actions. The probability of the outcomes from the actions is what is path dependent. It can be sensitive to initial conditions and is tested through changing the actions of a system. To investigate and understand path dependencies, an urn model is used. These models allow distinction between processes and elements of a system that either are or aren't path dependent. 
+
+The bernoulli principle and urn models go hand in hand to look at which outcomes with probability between 0 (unlikely) and 1 (likely). Two distinctions one can get from using this model is, 1.Path dependence: outcome probabilities depend upon the sequence of past outcomes and 2.Excellent (phat) dependence: outcome probabilities depend upon past outcomes but not their order. Another process used to help look at path dependencies is with the polya process. This process does not look at the order of the outcomes but rather the probability specifically. It compares against the equilibrium. 
+
+Similar to the Markov process which converges to a stochastic equilibrium, the Markov processes are not path dependent because the transition probabilities are fixed. There are three Markov assumptions: 
+1. Finite states with fixed transition probabilities between all states
+2. All states are obtainable from any other state
+3. Are not constricted to a simple periodic cycle
+The Markov process assesses the move of a system from one state to another. The states are usually predefined and these certain entities move within. It is independent. 
+
+As said previously, sensitivity of outcomes is known chaos. Path dependence looks at the affect. 
+1. Independent: Outcome doesn’t depend on starting point or what happens along the way
+2. Initial conditions: Outcome depends on starting state
+3. Path dependent: Outcome probabilities depend upon the sequence of past outcomes
+4. Phat dependence: Outcome probabilities depend upon past outcomes but not their order.
+This displays that sequence can matter and influence the probability of outcomes. 
+
+Path dependence can also be associated with increasing returns. Returns refers to the strength of a certain outcome in regards to the equilibrium and variations. You cannot have increasing returns without a path dependence, thus this property is essential for finding out if outcomes have a path. 
+
+Random walks are models where the probability of ½, or binary walks. Random normal walks consist of x=0, a normal distribution and a standard deviation of 1. Finite memory walks consist of the idea that the value at time t depends on the cumulative value of the history before time t, also known as n. 
+In general, random walks show the following:
+- there is a distinction between luck and skill
+- there is paradox of skill at high skill levels
+- there is regression to the mean in random walks
+- the stock market has some randomness to it in the short term
+
+A random walk is not path dependent
+Non Linear models and functions rely on concavity and convexity. Convexity occurs from growth and positive feedback and concavity comes from negative feedback and returns. 
+
+![image of concave and convex](https://i.stack.imgur.com/GNBZ4.png)
+
+Convex is an increase in the slope and concave is the opposite; to decrease.
+
+Exponential growth models show the variables of the population as a function of the initial value. 
+
+![Image of exponential equation](https://3g5opl996l.execute-api.ap-southeast-2.amazonaws.com/production/svg?tex=V_t%3DV_0%5Cleft(1%2BR%5Cright)%5Et)
+
+Diminishing returns can explain some phenomenons. These are associated with concavity which can further imply diversity and risk aversion. 
+
+![Image of returns](https://thepeakperformancecenter.com/wp-content/uploads/2019/05/Law-of-Diminishing-Returns.jpg)
+
+Risk aversion is implied through 3 outcome:
+1. High
+2. Low
+3. Mean (Average)
+
+While concavity shows risk aversion, convexity shows risk tolerance. 
+
+To spread information models of percolation, riots, broadcast and diffusion.. These models are a key form of communication between society and technology. Many products, programs, ideas and information are spread by word of mouth or broadcast. 
+1. Tipping point model: non linear with small changes creating big effects. 
+2. Percolation: graphical with filled in or not squares.
+3. Riots: Actions which aggravate variables and also model the whole distribution reactions.
+4. Broadcast: television, media or radio models which spread information.
+5. Diffusion: captures the word of mouth model with informed or uninformed.
+ 
+Equilibrium Lyapunov functions map models to outcomes through definition of the system. The system could be chaotic, complex or simple. If the lyapunov function is there, then it is known the system is in an equilibrium or is changing in and out of the equilibrium state. It is dependent. 
+The Lyapunov Process: has a maximum/minimum, and every time the system moves, it moves towards the maximum/minimum by a finite step. Then at some point the system must reach an equilibrium state.
+
+*The following questions were not answered as there was not much group work. There were not many activities to engage with (mostly listening) this week. In the next weeks they will be answered as the semester and classes progress further.*
+#### What are (my/the) perceived strengths and weaknesses that I have observed?
+#### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
+#### What would I do better next time and with what anticipated results?
+#### What theory proved to be useful and why? What have I learnt from this?
+
