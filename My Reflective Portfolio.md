@@ -341,3 +341,47 @@ The Lyapunov Process: has a maximum/minimum, and every time the system moves, it
 #### What would I do better next time and with what anticipated results?
 #### What theory proved to be useful and why? What have I learnt from this?
 
+
+
+# *Week 7: Reflecting on my learning*
+
+### *What insights have I gained?*
+
+Segregation model is based on widespread racial issues in the developed countries. Apart from racial discrimination, the segratation model is used to test other hypotheses. It can be considered a part of the behavioural models.
+
+![image of Segregation model](https://marginalrevolution.com/photos/uncategorized/schelling.jpg)
+
+Segregation model can be used to test the use of incentives within large groups. From research, it can be found that small incentives may not always have large outcomes. The outcomes rely on the connections between networks which can have two tipping points. 
+1. Exodus tip: When one leaves, another leaves
+2. Genesis tip: When one enters, another leaves. 
+
+The Granovetter model is a threshold behavioural model which assumes the behaviour of an individual is reliant on a pre-existing number of people with that same behaviour. 
+A factor that should be considered when modelling is culture. There is no set definition for culture as it is diverse and ever changing. They allow for the exploration of values of survival, expression, tradition and rationality. Culture can also be characterised in other ways like,
+1. Power
+2. Inequality
+3. Individualism
+4. Collectivism
+5. Masculinity
+6. Femininity
+7. Dynamism
+
+Coordination relies on the efficiency of choices. A coordination is efficient when the majority is benefited whilst inefficient coordination is when the majority is not benefited. As coordination goes, there must be a source of consistency. If coordination is not correct, then small changes or errors can have a big effect on the outcome.
+Replicator models are a type of social learning model used in three disciplines. 
+1. Psychology: to model learning
+2. Economics: to model populations of people learning
+3. Ecology: to model evolution
+
+These types of models use proportional populations to either model success or failure of observed outcomes. A replication model has an equation with the following variables,
+- Actions/strategies
+- Payoff for each π(i)
+- Specific proportion of population Pr(i)
+
+Rationality is required when observing outcomes to assess the effect of the equilibrium. 
+
+Fisher’s theorem allows for the combination of models in regards to the replicator models and lets variation play a role in adaptation of systems. In this theorem, Fisher states that higher variance is equal to faster rate of adaptation, but less variation reduces errors. 
+
+*The following questions were not answered as there was not much group work. There were not many activities to engage with (mostly listening) this week. In the next weeks they will be answered as the semester and classes progress further.*
+#### What are (my/the) perceived strengths and weaknesses that I have observed?
+#### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
+#### What would I do better next time and with what anticipated results?
+#### What theory proved to be useful and why? What have I learnt from this?
