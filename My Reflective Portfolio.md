@@ -387,4 +387,4 @@ Fisher’s theorem allows for the combination of models in regards to the replic
 #### What theory proved to be useful and why? What have I learnt from this?
 
 
-# *Week 8: STUVAC
+# *Week 8: STUVAC*
