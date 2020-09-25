@@ -44,11 +44,6 @@ Road (people, cars, bus, trucks, vehicles, line markings, lights, signals, cross
 ## *What insights have I gained?*
 A system requires human interaction to work. Systems in society merge together with technology known as socio-technical systems. These systems are the basis of modern society and how we live and operate our daily lives. Most of the time we do not pay close attention to the systems around us and that is because it has become embedded in ourselves; a norm. There are certain roles and responsibilities of both humans and systems so ensure organisations, companies and individuals work together in a cohesive manner and sustainable environment. Each level of complexity within a system is added through new knowledge and a broader understanding of how our society interacts. 
 
-*The following questions were not answered as there was not much going on except for an introduction. There were not many activities to engage with (mostly listening) this week. In the next weeks they will be answered as the semester and classes progress further.*
-#### What are (my/the) perceived strengths and weaknesses that I have observed?
-#### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
-#### What would I do better next time and with what anticipated results?
-#### What theory proved to be useful and why? What have I learnt from this?
 
 
 
@@ -88,12 +83,6 @@ Wisdom comes in many forms but with many model thinking it comes from crowds. Wo
  - Independence
  - Aggregation 
 A collective judgement and analysis on problems and also shows that no single person can answer all questions associated with the issue. 
-
-*The following questions were not answered as there was not much group work. There were not many activities to engage with (mostly listening) this week. In the next weeks they will be answered as the semester and classes progress further.*
-#### What are (my/the) perceived strengths and weaknesses that I have observed?
-#### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
-#### What would I do better next time and with what anticipated results?
-#### What theory proved to be useful and why? What have I learnt from this?
 
 
 
@@ -157,12 +146,6 @@ Problem solving in groups requires four steps before you find innovation.
 - Team Diversity: Combine perspectives and heuristics to find the best solutions.
 - Recomincation: Combining perspectives and heuristics to increase perspectives and heuristics.
 
-*The following questions were not answered as there was not much group work. There were not many activities to engage with (mostly listening) this week. In the next weeks they will be answered as the semester and classes progress further.*
-#### What are (my/the) perceived strengths and weaknesses that I have observed?
-#### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
-#### What would I do better next time and with what anticipated results?
-#### What theory proved to be useful and why? What have I learnt from this?
-
 
 
 # *Week 4: Reflecting on my learning*
@@ -220,11 +203,7 @@ Logic of Network Formation occurs in three different ways:
 
 Network Function arises if there is some structure to a network. When nodes interact they mostly think about themselves, but when these preferences interact on the microlevel, they can lead to emergent properties or functionalities on the macro level.
 
-*The following questions were not answered as there was not much group work. There were not many activities to engage with (mostly listening) this week. In the next weeks they will be answered as the semester and classes progress further.*
-#### What are (my/the) perceived strengths and weaknesses that I have observed?
-#### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
-#### What would I do better next time and with what anticipated results?
-#### What theory proved to be useful and why? What have I learnt from this?
+
 
 
 # *Week 5: Reflecting on my learning*
@@ -267,11 +246,6 @@ When there are multiple variables, a multiple-variable linear regression can be 
 
 With all this in mind, it is important to understand the limitations of these models and mathematical measures. 
 
-*The following questions were not answered as there was not much group work. There were not many activities to engage with (mostly listening) this week. In the next weeks they will be answered as the semester and classes progress further.*
-#### What are (my/the) perceived strengths and weaknesses that I have observed?
-#### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
-#### What would I do better next time and with what anticipated results?
-#### What theory proved to be useful and why? What have I learnt from this?
 
 
 # *Week 6: Reflecting on my learning*
@@ -335,11 +309,6 @@ To spread information models of percolation, riots, broadcast and diffusion.. Th
 Equilibrium Lyapunov functions map models to outcomes through definition of the system. The system could be chaotic, complex or simple. If the lyapunov function is there, then it is known the system is in an equilibrium or is changing in and out of the equilibrium state. It is dependent. 
 The Lyapunov Process: has a maximum/minimum, and every time the system moves, it moves towards the maximum/minimum by a finite step. Then at some point the system must reach an equilibrium state.
 
-*The following questions were not answered as there was not much group work. There were not many activities to engage with (mostly listening) this week. In the next weeks they will be answered as the semester and classes progress further.*
-#### What are (my/the) perceived strengths and weaknesses that I have observed?
-#### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
-#### What would I do better next time and with what anticipated results?
-#### What theory proved to be useful and why? What have I learnt from this?
 
 
 
@@ -380,11 +349,23 @@ Rationality is required when observing outcomes to assess the effect of the equi
 
 Fisher’s theorem allows for the combination of models in regards to the replicator models and lets variation play a role in adaptation of systems. In this theorem, Fisher states that higher variance is equal to faster rate of adaptation, but less variation reduces errors. 
 
-*The following questions were not answered as there was not much group work. There were not many activities to engage with (mostly listening) this week. In the next weeks they will be answered as the semester and classes progress further.*
-#### What are (my/the) perceived strengths and weaknesses that I have observed?
-#### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
-#### What would I do better next time and with what anticipated results?
-#### What theory proved to be useful and why? What have I learnt from this?
 
 
 # *Week 8: STUVAC*
+
+
+# *Week 9: Reflecting on group work*
+
+Throughout week 9 it has been very busy with the Pre-Submission due. There was a lot to do so organisation was key for the completion of the task. 
+
+### *What are (my/the) perceived strengths and weaknesses that I have observed?*
+
+The strengths that I found during the pre-submission task are my ability to be organised and on track. I would create a layout/outline for all of the answers so they can be answered correctly with the required detail. I also saw myself with good leadership skills to make sure everything was completed ahead of time and I had proofread all content. A weakness that I discovered was at times my group struggled with communication. 
+
+### *What were the challenges I have encountered/observed and how well (did I/my team) handle them?*
+
+The challenges my team faced was not being able to be on group calls altogether. Due to the online nature of classes, many of our schedules did not align so having group meetings was difficult. To combat this issue, my team and I called in groups of two at a time with any important or key notes we had, would be written into the shared document we created. 
+
+### *What would I do better next time and with what anticipated results?*
+
+Next time I would learn more about Github and Jupyter Notebook as I struggled to use them with the pre-submission. Learning more about these programs my group will be able to have more complex models and new skills to enhance the final report. 
