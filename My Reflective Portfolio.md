@@ -369,3 +369,21 @@ The challenges my team faced was not being able to be on group calls altogether.
 ### *What would I do better next time and with what anticipated results?*
 
 Next time I would learn more about Github and Jupyter Notebook as I struggled to use them with the pre-submission. Learning more about these programs my group will be able to have more complex models and new skills to enhance the final report. 
+
+
+
+# *Week 10: Reflecting on group work*
+
+Throughout week 10 my group edited and reviewed our own assignment and group 3’s assignment. 
+
+### *What are (my/the) perceived strengths and weaknesses that I have observed?*
+
+I found that one of my strengths was that I was able to pick up on spelling and grammar mistakes. I was also able to change and fix any errors that I discovered through the work. A weakness I found it hard to understand and clarify some sections of work. 
+
+### *What were the challenges I have encountered/observed and how well (did I/my team) handle them?*
+
+The challenges I faced this week was my group not contributing to the feedback and review. I had to do a lot of it alone and when I asked for their help they wouldn’t reply or leave one or two sentences (which wasn’t much compared to how much I did). I did try to talk to my group about the issue or contribution but no one responded so I am giving feedback alone still. 
+
+### *What would I do better next time and with what anticipated results?*
+
+Next time I would contact someone of higher authority to get them to help me out with the issue of contribution and in turn this should solve the issue of myself having to write feedback without the help of my team members. 
