@@ -387,3 +387,21 @@ The challenges I faced this week was my group not contributing to the feedback a
 ### *What would I do better next time and with what anticipated results?*
 
 Next time I would contact someone of higher authority to get them to help me out with the issue of contribution and in turn this should solve the issue of myself having to write feedback without the help of my team members. 
+
+
+
+# *Week 11: Reflecting on me*
+
+Throughout week 11 my group took upon feedback and reviewed our assignment.
+
+### *What are (my/the) perceived strengths and weaknesses that I have observed?*
+
+This week I didn’t observe a strength but more a weakness. I struggled to understand Jupyter Notebook and create one properly. I struggled to understand what was meant to be done and found I did get annoyed and frustrated with myself. 
+
+### *What were the challenges I have encountered/observed and how well (did I/my team) handle them?*
+
+The challenges I faced this week was to keep calm when I did not understand how to use the jupyter notebook very well. I had placed our assignment in a Read.me file instead of a Markdown file. I handled the situation well as I was patient and waited for the teachers assistance. 
+
+### *What would I do better next time and with what anticipated results?*
+
+Next time I would try to ask earlier about the notebook and how to set it up. This would be done prior to the due date. By doing this, the final product will look a lot better and be in the correct format. 
