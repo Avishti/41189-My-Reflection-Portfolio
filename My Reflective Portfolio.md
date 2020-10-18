@@ -405,3 +405,20 @@ The challenges I faced this week was to keep calm when I did not understand how 
 ### *What would I do better next time and with what anticipated results?*
 
 Next time I would try to ask earlier about the notebook and how to set it up. This would be done prior to the due date. By doing this, the final product will look a lot better and be in the correct format. 
+
+
+# *Week 12: Reflecting on group work*
+
+Throughout week 12 my group worked on fixing up section 3 of our assignment.
+
+### *What are (my/the) perceived strengths and weaknesses that I have observed?*
+
+My perceived strengths is that I was able to learn quickly about jupyter notebook even though I was struggling with it. I still am not confident but I know with practice I will do better. Using the notebook has definitely shown my weaker side of this subject. 
+
+### *What were the challenges I have encountered/observed and how well (did I/my team) handle them?*
+
+The challenges I faced this week were a lack of communication between myself and group members. Being in an online situation is not the easiest and at times being in person with your team would benefit better. I handled the situation by completing all the work that needed to be done alone; taking initiative to complete the work. 
+
+### *What would I do better next time and with what anticipated results?*
+
+Next time I would try to get into contact with my team members even though it is hard at times. By trying to do this the results may be a better written segment of writing. 
